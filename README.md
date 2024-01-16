@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Flashchat Banner](Documentation/Flashchat%20Swift.jpg)
 
 # Flash-Chat
 
