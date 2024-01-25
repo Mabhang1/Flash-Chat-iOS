@@ -1,4 +1,4 @@
-![Flashchat Banner](Documentation/Flashchat%20Swift.jpg)
+![Flashchat Banner](Documentation/FlashchatMockup.jpg)
 
 # Flash-Chat
 
